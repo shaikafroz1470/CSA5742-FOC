@@ -25,3 +25,7 @@ EXP-36:-NATURAL NUMBERS
 
 EXP-40:-FACTORIAL
 ![FACTORIAL](https://user-images.githubusercontent.com/113369201/214516511-15fc2e72-f48c-4e79-a827-dafbae4f3e82.png)
+
+EXP-37:-PALINDROME
+![palindrome](https://user-images.githubusercontent.com/113369201/214521540-7e39623e-57d7-42eb-a5cb-3b8835054018.jpeg)
+
