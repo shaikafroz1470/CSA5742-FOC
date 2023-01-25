@@ -1,9 +1,11 @@
+#!/bin/sh
 echo "enter num_1"
 read num_1
 echo "enter num_2"
 read num_2
 
-echo $(( num_1 + num_2 ))
-echo $(( num_1 - num_2 ))
-echo $(( num_1 / num_2 ))
-echo $(( num_1 * num_2 ))
+
+echo "add:" $((num_1 + num_2))
+echo "sub:" $((num_1 - num_2))
+echo "mul:" $((num_1 * num_2))
+echo "div:" $((num_1 / num_2))
