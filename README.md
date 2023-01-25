@@ -22,3 +22,6 @@ EXP-30 :-READ A NUMBER AND FIND SQUARE
 
 EXP-36:-NATURAL NUMBERS
 ![natural numbers](https://user-images.githubusercontent.com/113369201/214511987-4f812c70-f96e-429e-9782-51291d1bbc44.png)
+
+EXP-40:-FACTORIAL
+![FACTORIAL](https://user-images.githubusercontent.com/113369201/214516511-15fc2e72-f48c-4e79-a827-dafbae4f3e82.png)
