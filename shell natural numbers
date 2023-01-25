@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "enter number"
+read n
+echo "n natural numbers"
+for((a=1;a<=n;a++))
+do
+        echo $a
+done
