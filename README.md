@@ -8,3 +8,7 @@ EXP-28:CUBE
 EXP-35:ARITHEMATIC OPERATIONS
 ![arithematic operators](https://user-images.githubusercontent.com/113369201/214483879-3b24fc15-f912-42bc-a855-4cc8d56539cf.png)
 
+EXP-29: AREA OF DIFFERENT SHAPE
+![area of different shapes](https://user-images.githubusercontent.com/113369201/214484539-46edec70-2da9-4a22-bdf0-ca200cbd8be6.png)
+
+
