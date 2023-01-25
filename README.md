@@ -14,3 +14,6 @@ EXP-29: AREA OF DIFFERENT SHAPE
 EXP:-34 : STUDENT MARKSLIST
 ![student marks list](https://user-images.githubusercontent.com/113369201/214493851-ac05bc5c-22f0-4e8c-a4c1-9da0aff0a9d4.png)
 
+EXP-32:-BIGGEST OF THREE NUMBERS
+![LARGEST OF THREE NUMBERS](https://user-images.githubusercontent.com/113369201/214494250-664d1057-471e-4ec8-a2b4-a7c2f9fc23c9.jpeg)
+
