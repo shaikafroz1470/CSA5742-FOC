@@ -19,3 +19,6 @@ EXP-32:-BIGGEST OF THREE NUMBERS
 
 EXP-30 :-READ A NUMBER AND FIND SQUARE
 ![SQUARE](https://user-images.githubusercontent.com/113369201/214494546-2354fde2-3367-4c70-939b-abdc6fba015b.png)
+
+EXP-36:-NATURAL NUMBERS
+![natural numbers](https://user-images.githubusercontent.com/113369201/214511987-4f812c70-f96e-429e-9782-51291d1bbc44.png)
