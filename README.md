@@ -17,3 +17,5 @@ EXP:-34 : STUDENT MARKSLIST
 EXP-32:-BIGGEST OF THREE NUMBERS
 ![LARGEST OF THREE NUMBERS](https://user-images.githubusercontent.com/113369201/214494250-664d1057-471e-4ec8-a2b4-a7c2f9fc23c9.jpeg)
 
+EXP-30 :-READ A NUMBER AND FIND SQUARE
+![SQUARE](https://user-images.githubusercontent.com/113369201/214494546-2354fde2-3367-4c70-939b-abdc6fba015b.png)
