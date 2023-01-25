@@ -11,4 +11,6 @@ EXP-35:ARITHEMATIC OPERATIONS
 EXP-29: AREA OF DIFFERENT SHAPE
 ![area of different shapes](https://user-images.githubusercontent.com/113369201/214484539-46edec70-2da9-4a22-bdf0-ca200cbd8be6.png)
 
+EXP:-34 : STUDENT MARKSLIST
+![student marks list](https://user-images.githubusercontent.com/113369201/214493851-ac05bc5c-22f0-4e8c-a4c1-9da0aff0a9d4.png)
 
